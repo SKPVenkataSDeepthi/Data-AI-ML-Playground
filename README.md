@@ -5,7 +5,7 @@
 ## 👩‍💻 About Me
 
 <div align="center">
-  <img align="right" src="./Images/ProfileImg.jpeg" width="300" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25); margin-left:20px;" />
+  <img align="right" src="./Images/profile.jpg" width="300" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25); margin-left:20px;" />
 
   <p align="left">
   <b>Venkata Sri Deepthi SriKotaPeetambaram</b><br><br>
