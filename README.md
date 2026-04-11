@@ -2,25 +2,44 @@
 
 ✨ *Turning data into decisions. Models into impact. Ideas into reality.*
 
-## 👩‍💻 About Me
+## 👩‍💻 From Data to Decisions — About Me
 
 <div align="center">
-  <img align="right" src="./Images/profile.jpg" width="300" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25); margin-left:20px;" />
-
-  <p align="left">
-  <b>Venkata Sri Deepthi SriKotaPeetambaram</b><br><br>
-  📧 venkatasrideepthiskp@gmail.com | vxs9959@mavs.uta.edu <br>
-  🔗 <a href="https://www.linkedin.com/in/dvskp/">LinkedIn</a>
-  </p>
+  <img src="./Images/profile.jpg" width="260" style="border-radius:50%; box-shadow:0px 10px 30px rgba(0,0,0,0.3);" />
 </div>
 
-🎯 Passionate about building **data-driven solutions** across:  
-- 📊 Data Science  
-- 📈 Data Analytics  
-- 🤖 Artificial Intelligence  
-- ⚙️ Data Engineering  
+<h2 align="center">✨ Venkata Sri Deepthi SriKotaPeetambaram ✨</h2>
 
+<p align="center">
+📧 <b>venkatasrideepthiskp@gmail.com</b> | <b>vxs9959@mavs.uta.edu</b> <br>
+🔗 <a href="https://www.linkedin.com/in/dvskp/">LinkedIn Profile</a>
+</p>
 
+---
+
+### 🧠 What Happens When You Mix Data + Curiosity + Coffee? ☕
+
+I turn messy data into meaningful insights and ideas into real-world impact 🚀  
+
+Whether it's decoding patterns, building intelligent models, or engineering scalable pipelines, I enjoy working where logic meets creativity:
+
+<div align="center">
+
+📐  **Data Science** &nbsp; | &nbsp; 📊 **Data Analytics** &nbsp; | &nbsp; 🤖 **Artificial Intelligence** &nbsp; | &nbsp; ⚙️ **Data Engineering**
+
+</div>
+
+### 💡 What Drives Me?
+
+🔍 Curiosity to solve real-world problems  
+📈 Passion for extracting meaningful insights from data  
+🤖 Building smart, scalable, and impactful AI solutions  
+🌍 Using technology for **real-world impact**
+
+### 🪄 Fun Fact
+
+I don’t just analyze data, I turn it into stories, uncover hidden plot twists,  
+and occasionally make it confess insights it didn’t plan to share 😄📊✨  
 
 ---
 
@@ -148,12 +167,6 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 - End-to-end **data pipelines**
 - Real-world **analytics & insights**
 - **Cloud-based data solutions**
-
----
-
-## ✨ Fun Fact
-
-💡 *I turn messy data into meaningful insights, and sometimes into intelligent systems that actually think.*
 
 ---
 
