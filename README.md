@@ -31,7 +31,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 - Work with real datasets & pipelines  
 - Turn insights into actionable solutions  
 
-💡 *From disaster risk prediction to intelligent systems — this is where learning meets real-world impact.*
+💡 *From disaster risk prediction to intelligent systems, this is where learning meets real-world impact.*
 
 ---
 
@@ -152,7 +152,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ## ✨ Fun Fact
 
-💡 *I turn messy data into meaningful insights — and sometimes into intelligent systems that actually think.*
+💡 *I turn messy data into meaningful insights, and sometimes into intelligent systems that actually think.*
 
 ---
 
@@ -161,3 +161,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 🔗 https://www.linkedin.com/in/dvskp/
 
 🚀 *Got something cool in mind? Let’s build it, break it, and innovate something even better together.*
+
+---
+
+© 2026 Venkata Sri Deepthi SriKotaPeetambaram | Data-AI-ML-Playground
