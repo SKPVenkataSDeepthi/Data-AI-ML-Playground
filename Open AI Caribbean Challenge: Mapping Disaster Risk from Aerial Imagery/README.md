@@ -12,7 +12,7 @@ Machine learning models built for this task help enable **faster, scalable, and 
 ---
 
 ## 🖼️ 🌐 Project Preview
-![Project Preview](Images/project-preview.png)
+![Project Preview](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/main/Images/project-preview.png)
 
 ---
 
@@ -48,7 +48,7 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 
 ## 🧠 Solution Approach
 
-![Solution Approach](Images/solution-approach.png)
+![Solution Approach](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/main/Images/solution-approach.png)
 
 - 📸 Process aerial drone imagery  
 - 🧹 Clean & preprocess data  
@@ -97,13 +97,13 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 ## 🖼️ Project Visualizations
 
 ### 🔹 Sample Aerial Imagery
-![Aerial Image](Images/sampleAerialImagery.png)
+![Aerial Image](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/main/Images/sampleAerialImagery.png)
 
 ### 🔹 Model Predictions
-![Predictions](Images/modelPred.png)
+![Predictions](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/main/Images/modelPred.png)
 
 ### 🔹 Training Performance
-![Training Graph](Images/trainingPref.png)
+![Training Graph](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/main/Images/trainingPref.png)
 
 ---
 
@@ -117,9 +117,9 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 
 ---
 
-## 🌱 Future Scope (Let’s Take This Further 🚀)
+## 🚀 Future Scope (Scaling This Further 🌍✨)
 
-Here’s where things get exciting 👇
+Here’s where things get exciting
 
 - 🛰️ Combine **satellite + drone imagery**
 - 🧭 Add **geospatial mapping (GIS integration)**
@@ -135,7 +135,7 @@ Here’s where things get exciting 👇
 💡 If you have ideas to take this to the **next level**, 
 whether it's **better models, deployment, or real-world applications**...
 
-👉 **Let’s build something impactful together!**
+**Let’s build something impactful together!**
 
 ---
 
