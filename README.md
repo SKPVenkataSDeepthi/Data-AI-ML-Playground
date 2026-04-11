@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="./images/YOUR_IMAGE_NAME.jpg" width="280" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25);" />
+  <img src="./Images/ProfileImg.jpeg" width="280" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25);" />
 </p>
 
 <p align="center">
