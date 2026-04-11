@@ -19,14 +19,14 @@ Machine learning models built for this task help enable **faster, scalable, and 
 ## 🚀 The Minds Behind This Project
 
 ### 🌟 Venkata Sri Deepthi SriKotaPeetambaram
-Hi! I'm Deepthi, a Master's student in Data Science at the **University of Texas at Arlington**, with a strong background in **Data Science** and specialization in **Artificial Intelligence, Machine Learning, and Database Systems**.  
+Hi! I'm Deepthi, a Data Science graduate at the **University of Texas at Arlington**, with a strong background in **Data** and specialization in **Artificial Intelligence, Machine Learning, and Database Systems**.  
 
 I'm currently working as a **Data Analyst at CrowdDoing**, where I apply data-driven approaches to solve real-world problems and build impactful solutions. I'm passionate about leveraging AI for social good, especially in areas like disaster resilience and scalable analytics.
 
 ---
 
 ### 🌟 Niteesh P
-Niteesh is a Master's student in Computer Science at the **University of Central Missouri**.  
+Niteesh is a Computer Science graduate at the **University of Central Missouri**.  
 
 He brings a solid foundation in software development and problem-solving, with a keen interest in applying technology to real-world challenges and building scalable intelligent systems.
 
