@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-> This project is inspired by and based on the competition hosted on DrivenData:  
+This project is inspired by and based on the competition hosted on DrivenData:  
 🔗 https://www.drivendata.org/competitions/58/disaster-response-roof-type/
 
 The challenge focuses on predicting **roof material types from aerial drone imagery** to assess disaster risk across regions like **St. Lucia, Guatemala, and Colombia**.
