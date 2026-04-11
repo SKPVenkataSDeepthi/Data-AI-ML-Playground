@@ -1,32 +1,34 @@
-# 🌍 Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery
+# Open AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery
 
 ## 📌 Overview
 
-> 📢 This project is inspired by and based on the competition hosted on DrivenData:  
+> This project is inspired by and based on the competition hosted on DrivenData:  
 🔗 https://www.drivendata.org/competitions/58/disaster-response-roof-type/
 
 The challenge focuses on predicting **roof material types from aerial drone imagery** to assess disaster risk across regions like **St. Lucia, Guatemala, and Colombia**.
 
-Machine learning models built for this task help enable **faster, scalable, and cost-effective disaster preparedness**. :contentReference[oaicite:0]{index=0}
+Machine learning models built for this task help enable **faster, scalable, and cost-effective disaster preparedness**.
 
 ---
 
 ## 🖼️ 🌐 Project Preview
-
-
-::contentReference[oaicite:1]{index=1}
-
+![Project Preview](Images/project-preview.png)
 
 ---
 
-## 👩‍💻 Team
+## 🚀 The Minds Behind This Project
 
-### 1. Venkata Sri Deepthi SriKotaPeetambaram  
-📧 venkatasrideepthiskp@gmail.com | vxs9959@mavs.uta.edu  
-🔗 https://www.linkedin.com/in/dvskp/
+### 🌟 Venkata Sri Deepthi SriKotaPeetambaram
+Hi! I'm Deepthi, a Master's student in Data Science at the **University of Texas at Arlington**, with a strong background in **Data Science** and specialization in **Artificial Intelligence, Machine Learning, and Database Systems**.  
 
-### 2. Niteesh P  
-🔗 https://www.linkedin.com/in/niteesh-p-3402aa39a/
+I'm currently working as a **Data Analyst at CrowdDoing**, where I apply data-driven approaches to solve real-world problems and build impactful solutions. I'm passionate about leveraging AI for social good, especially in areas like disaster resilience and scalable analytics.
+
+---
+
+### 🌟 Niteesh P
+Niteesh is a Master's student in Computer Science at the **University of Central Missouri**.  
+
+He brings a solid foundation in software development and problem-solving, with a keen interest in applying technology to real-world challenges and building scalable intelligent systems.
 
 ---
 
@@ -46,9 +48,7 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 
 ## 🧠 Solution Approach
 
-
-::contentReference[oaicite:2]{index=2}
-
+![Solution Approach](images/solution-approach.png)
 
 - 📸 Process aerial drone imagery  
 - 🧹 Clean & preprocess data  
@@ -77,32 +77,36 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 ---
 
 ## 📊 Dataset
-
-
-::contentReference[oaicite:3]{index=3}
-
-
 - High-resolution drone imagery  
 - Annotated with roof material labels  
 - Covers multiple countries and environments  
-- Includes **5 roof material classes** :contentReference[oaicite:4]{index=4}  
+- Includes **5 roof material classes** 
 
 ---
 
 ## 📈 Outcomes & Results
-
-
-::contentReference[oaicite:5]{index=5}
-
-
 - ✅ Built an end-to-end roof classification model  
 - 📊 Strong multi-class classification performance  
 - ⚡ Scalable approach for disaster risk mapping  
 - 🌍 Real-world impact for **resilient infrastructure planning**  
 
-🏆 Top competition models reached ~**87% accuracy**, doubling baseline performance :contentReference[oaicite:6]{index=6}  
+🏆 Top competition models reached ~**87% accuracy**, doubling baseline performance
 
 ---
+
+## 🖼️ Project Visualizations
+
+### 🔹 Sample Aerial Imagery
+![Aerial Image](images/sampleAerialImagery.png)
+
+### 🔹 Model Predictions
+![Predictions](images/modelPred.png)
+
+### 🔹 Training Performance
+![Training Graph](images/trainingPref.png)
+
+---
+
 
 ## 🔍 Key Learnings
 
@@ -128,7 +132,7 @@ Here’s where things get exciting 👇
 
 ## 🤝 Let’s Collaborate!
 
-💡 If you have ideas to take this to the **next level** —  
+💡 If you have ideas to take this to the **next level**, 
 whether it's **better models, deployment, or real-world applications**...
 
 👉 **Let’s build something impactful together!**
@@ -148,4 +152,4 @@ whether it's **better models, deployment, or real-world applications**...
 This project is part of the growing movement of **AI for Social Good**, helping communities better prepare for disasters using technology.
 
 ---
-
+© 2026 Venkata Sri Deepthi SriKotaPeetambaram | Data-AI-ML-Playground
