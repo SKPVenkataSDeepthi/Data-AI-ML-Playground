@@ -2,24 +2,24 @@
 
 ✨ *Turning data into decisions. Models into impact. Ideas into reality.*
 
----
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="./Images/ProfileImg.jpeg" width="280" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25);" />
-</p>
+<div align="center">
+  <img align="right" src="./Images/ProfileImg.jpeg" width="300" style="border-radius:20px; box-shadow:0px 8px 25px rgba(0,0,0,0.25); margin-left:20px;" />
 
-<p align="center">
-<b>Venkata Sri Deepthi SriKotaPeetambaram</b><br>
-📧 venkatasrideepthiskp@gmail.com | vxs9959@mavs.uta.edu <br>
-🔗 <a href="https://www.linkedin.com/in/dvskp/">LinkedIn</a>
-</p>
+  <p align="left">
+  <b>Venkata Sri Deepthi SriKotaPeetambaram</b><br><br>
+  📧 venkatasrideepthiskp@gmail.com | vxs9959@mavs.uta.edu <br>
+  🔗 <a href="https://www.linkedin.com/in/dvskp/">LinkedIn</a>
+  </p>
+</div>
 
 🎯 Passionate about building **data-driven solutions** across:  
 - 📊 Data Science  
 - 📈 Data Analytics  
 - 🤖 Artificial Intelligence  
 - ⚙️ Data Engineering  
+
 
 ---
 
