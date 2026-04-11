@@ -48,7 +48,7 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 
 ## 🧠 Solution Approach
 
-![Solution Approach](images/solution-approach.png)
+![Solution Approach](Images/solution-approach.png)
 
 - 📸 Process aerial drone imagery  
 - 🧹 Clean & preprocess data  
@@ -97,13 +97,13 @@ Use **computer vision** to classify roof materials and estimate structural vulne
 ## 🖼️ Project Visualizations
 
 ### 🔹 Sample Aerial Imagery
-![Aerial Image](images/sampleAerialImagery.png)
+![Aerial Image](Images/sampleAerialImagery.png)
 
 ### 🔹 Model Predictions
-![Predictions](images/modelPred.png)
+![Predictions](Images/modelPred.png)
 
 ### 🔹 Training Performance
-![Training Graph](images/trainingPref.png)
+![Training Graph](Images/trainingPref.png)
 
 ---
 
