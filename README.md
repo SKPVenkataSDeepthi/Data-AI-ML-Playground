@@ -71,7 +71,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-## 🛠️ Tools & Technologies (Most In-Demand 🚀)
+## 🛠️ Tools & Technologies
 
 ### 💻 Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
