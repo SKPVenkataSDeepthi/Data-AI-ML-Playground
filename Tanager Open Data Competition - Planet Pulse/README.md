@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
 
-Welcome to my submission space for the **Planet Tanager Open Data Competition** —
+Welcome to my submission space for the **Planet Tanager Open Data Competition**,
 where satellite data meets curiosity, and pixels turn into insights 🛰️📊
 
 ---
