@@ -1,4 +1,7 @@
-# 🚀 Data AI ML Challenge Playground
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Data%20AI%20ML%20Challenge%20Playground&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 
 ✨ *Turning data into decisions. Models into impact. Ideas into reality.*
 
@@ -209,3 +212,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 ---
 
 © 2026 Venkata Sri Deepthi SriKotaPeetambaram | Data-AI-ML-Playground
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=110&section=footer" />
+</p>
