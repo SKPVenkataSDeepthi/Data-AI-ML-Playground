@@ -11,7 +11,7 @@ where satellite data meets curiosity, and pixels turn into insights 🛰️📊
 
 ## 📊 About the Challenge
 
-The **Tanager Open Data Competition** by Planet Labs invites researchers and developers to explore the power of **hyperspectral satellite imagery** to solve real-world problems. ([Planet Learn][1])
+The **Tanager Open Data Competition** by Planet Labs invites researchers and developers to explore the power of **hyperspectral satellite imagery** to solve real-world problems. 
 
 Participants are encouraged to build:
 
@@ -29,7 +29,7 @@ Winners get recognition and even influence which datasets become publicly availa
   <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/main/Images/TANAGER%20COMPETETION.png" width="500"/>
 </p>
 
-Tanager satellites provide **hyperspectral imagery**,meaning they capture hundreds of spectral bands (not just RGB). ([Gee Community Catalog][2])
+Tanager satellites provide **hyperspectral imagery**,meaning they capture hundreds of spectral bands (not just RGB). 
 
 ### Key Highlights:
 
