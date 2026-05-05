@@ -19,7 +19,7 @@ Participants are encouraged to build:
 * 🧠 Technical analyses
 * 💻 Code-driven solutions (notebooks, repos, models)
 
-Winners get recognition and even influence which datasets become publicly available 🌍 ([Planet Learn][1])
+Winners get recognition and even influence which datasets become publicly available 🌍 
 
 ---
 
@@ -134,7 +134,7 @@ This dataset can unlock insights in:
 
 ## ⚡ Final Thought
 
-> “Data is powerful—but understanding it is where the real value lies.”
+> “Data is powerful, but understanding it is where the real value lies.”
 
 ---
 
