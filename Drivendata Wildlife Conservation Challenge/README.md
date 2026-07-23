@@ -1,153 +1,224 @@
-# 🦁 Wildlife Conservation Image Classification Challenge
-
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=for-the-badge&logo=tensorflow)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNN-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
-![DrivenData](https://img.shields.io/badge/DrivenData-Competition-red?style=for-the-badge)
+<img src="https://github.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/blob/main/Drivendata%20Wildlife%20Conservation%20Challenge/Images/Banner.png" width="100%">
 
 </p>
 
----
+# 🦁 Wildlife Conservation Image Classification
 
-# 🌍 About the Challenge
-
-I'm currently participating in the **DrivenData Wildlife Conservation Image Classification Challenge**, where the objective is to build an AI model capable of accurately classifying wildlife species from camera trap images.
-
-This competition focuses on applying **Computer Vision** and **Deep Learning** techniques to support biodiversity monitoring and wildlife conservation efforts.
-
-> **Every correctly classified image contributes toward improving conservation research and ecological decision-making.**
+> Building an image classification pipeline for wildlife monitoring using Computer Vision and Deep Learning.
 
 ---
 
-## 🎯 Objective
+## Why I Picked This Challenge
 
-Develop a high-performing image classification model capable of identifying wildlife species captured by motion-triggered camera traps.
+I wanted a project that went beyond benchmark datasets and focused on solving a real-world problem.
 
-The project involves:
+The Wildlife Conservation Challenge by DrivenData brings together computer vision and environmental impact by using camera trap images collected in the wild. My goal isn't only to build an accurate classifier—it's to understand the complete machine learning workflow behind production-ready image classification systems.
 
-- Image preprocessing
-- Data augmentation
-- Exploratory Data Analysis (EDA)
-- CNN / Transfer Learning
-- Model Evaluation
-- Performance Optimization
-- Prediction & Submission
+This repository documents my learning process, experiments, successes, and failures while working through the competition.
 
 ---
 
-# 🧠 Skills Demonstrated
+## About the Competition
 
-✔ Computer Vision
+This project is based on the **DrivenData Wildlife Conservation Image Classification Challenge**, where the objective is to identify wildlife species from motion-triggered camera trap images.
 
-✔ Deep Learning
+Rather than treating this as a leaderboard competition, I'm approaching it as an opportunity to strengthen my understanding of:
 
-✔ Image Classification
+- Computer Vision
+- Deep Learning
+- Transfer Learning
+- Model Optimization
+- Image Processing
+- Experiment Tracking
 
-✔ CNNs
-
-✔ Transfer Learning
-
-✔ TensorFlow / PyTorch
-
-✔ Data Augmentation
-
-✔ Model Evaluation
-
-✔ Hyperparameter Tuning
-
-✔ AI for Social Good
+Competition:
+https://www.drivendata.org/competitions/87/competition-image-classification-wildlife-conservation/
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
-| Category | Technologies |
-|-----------|--------------|
+| Area | Tools |
+|------|-------|
 | Language | Python |
-| Libraries | NumPy, Pandas, OpenCV |
-| Deep Learning | TensorFlow / Keras / PyTorch |
-| Visualization | Matplotlib, Seaborn |
-| Notebook | Jupyter |
+| Deep Learning | TensorFlow / Keras |
+| Image Processing | OpenCV |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib |
+| Development | Jupyter Notebook |
 | Version Control | Git & GitHub |
 
 ---
 
-# 📂 Project Workflow
+# Project Roadmap
 
-```text
-Dataset
-      │
-      ▼
-Exploratory Data Analysis
-      │
-      ▼
-Image Cleaning
-      │
-      ▼
-Data Augmentation
-      │
-      ▼
-CNN / Transfer Learning
-      │
-      ▼
-Model Training
-      │
-      ▼
-Evaluation
-      │
-      ▼
-Submission
+✔ Dataset exploration
+
+⬜ Image preprocessing
+
+⬜ Exploratory Data Analysis
+
+⬜ Data augmentation
+
+⬜ Baseline CNN
+
+⬜ Transfer Learning
+
+⬜ Hyperparameter tuning
+
+⬜ Error analysis
+
+⬜ Final submission
+
+---
+
+<img src="https://github.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/blob/main/Drivendata%20Wildlife%20Conservation%20Challenge/Images/Workflow.png">
+
+# How I'm Approaching This Challenge
+
+Instead of jumping directly into model training, I'm breaking the project into smaller engineering milestones.
+
+### Phase 1 — Understanding the Data
+
+- Exploring image distribution
+- Identifying class imbalance
+- Checking image resolutions
+- Understanding metadata
+
+---
+
+### Phase 2 — Building a Baseline
+
+Starting with a simple CNN to establish baseline performance before moving toward more advanced architectures.
+
+---
+
+### Phase 3 — Transfer Learning
+
+Experimenting with pretrained models such as:
+
+- EfficientNet
+- ResNet
+- MobileNet
+- DenseNet
+
+Comparing:
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+---
+
+### Phase 4 — Optimization
+
+Improving performance using:
+
+- Data augmentation
+- Learning rate scheduling
+- Fine tuning
+- Early stopping
+- Batch normalization
+- Dropout
+
+---
+
+<img src="https://github.com/SKPVenkataSDeepthi/Data-AI-ML-Playground/blob/main/Drivendata%20Wildlife%20Conservation%20Challenge/Images/Model%20Journey%20Image.png">
+
+# Experiment Log
+
+This repository is intentionally organized as an engineering notebook.
+
+Every notebook records:
+
+- What I changed
+- Why I changed it
+- What improved
+- What didn't work
+- Next experiment
+
+Instead of only publishing the final model, I'm documenting the entire learning journey.
+
+---
+
+# Current Progress
+
+| Task | Status |
+|------|--------|
+| Dataset Study | ✅ |
+| Image Exploration | 🚧 |
+| Baseline CNN | 🚧 |
+| Transfer Learning | ⏳ |
+| Model Optimization | ⏳ |
+| Final Submission | ⏳ |
+
+---
+
+# What I'm Learning
+
+Working on this competition is helping me improve practical skills in:
+
+- Building image classification pipelines
+- Transfer learning strategies
+- Data preprocessing
+- Experiment tracking
+- Performance evaluation
+- Error analysis
+- Deep learning best practices
+
+More importantly, it's teaching me how to iterate on models instead of expecting perfect results from the first attempt.
+
+---
+
+# Repository Structure
+
+```
+Wildlife-Conservation-Image-Classification
+│
+├── notebooks/
+├── data/
+├── models/
+├── images/
+├── submissions/
+├── utils/
+└── README.md
 ```
 
 ---
 
-# 📈 Learning Goals
+# Why This Matters
 
-Throughout this competition, I'm focusing on improving my understanding of:
+Camera trap datasets generate thousands of wildlife images that are difficult to classify manually.
 
-- Computer Vision pipelines
-- CNN architectures
-- Transfer Learning
-- Image preprocessing
-- Performance optimization
-- Model evaluation metrics
-- Real-world AI deployment
+Even small improvements in automated classification can help researchers spend less time sorting images and more time understanding biodiversity and conservation patterns.
+
+Contributing to projects like this reminds me that AI can create value far beyond traditional business applications.
 
 ---
 
-# 🌱 Why This Challenge?
+# Let's Connect
 
-Beyond improving my AI and Machine Learning skills, this project contributes to solving a meaningful real-world problem:
+I'm continuously working on AI, Machine Learning, and Data Science projects that solve practical problems while strengthening my engineering skills.
 
-> **Using Artificial Intelligence to help protect wildlife and support conservation efforts across the globe.**
+If you're interested in Computer Vision, Deep Learning, or AI Engineering, I'd love to connect.
 
----
+**LinkedIn**
 
-# 📊 Current Status
+www.linkedin.com/in/dvskp
 
-🟢 Currently Participating
+**Portfolio**
 
-- ✅ Understanding the dataset
-- ⏳ Building baseline model
-- ⏳ Experimenting with Transfer Learning
-- ⏳ Model Optimization
-- ⏳ Final Submission
+deepthi-data-diaries.netlify.app
 
 ---
 
-# 🤝 Let's Connect
+One Repository. One Challenge. Countless Lessons.
 
-I'm continuously participating in AI, Data Science, and Machine Learning competitions to strengthen my practical skills and build real-world solutions.
+Every repository on my GitHub represents more than code—it's a milestone in becoming a stronger AI Engineer.
 
-If you're interested in AI, Computer Vision, or Data Science, feel free to connect!
+Thanks for exploring this project. If something here sparks an idea, teaches you something new, or inspires a conversation, then this repository has already achieved more than a competition submission ever could.
 
-**LinkedIn:** *(https://www.linkedin.com/in/dvskp/)*
-
-**Portfolio:** *(https://deepthi-data-diaries.netlify.app/)*
-
----
-
-⭐ *Follow my journey as I continue solving real-world AI challenges through hands-on projects and competitions.*
+Until the next challenge... Happy Building! 🌿🤖
