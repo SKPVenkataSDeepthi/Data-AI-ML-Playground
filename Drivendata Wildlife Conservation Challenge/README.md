@@ -217,7 +217,7 @@ deepthi-data-diaries.netlify.app
 
 One Repository. One Challenge. Countless Lessons.
 
-Every repository on my GitHub represents more than code—it's a milestone in becoming a stronger AI Engineer.
+Every repository on my GitHub represents more than code, it's a milestone in becoming a stronger AI Engineer.
 
 Thanks for exploring this project. If something here sparks an idea, teaches you something new, or inspires a conversation, then this repository has already achieved more than a competition submission ever could.
 
@@ -225,4 +225,4 @@ Until the next challenge... Happy Building!
 
 ---
 
-                                        © 2026 Venkata Sri Deepthi SriKotaPeetambaram | Data-AI-ML-Playground
+© 2026 Venkata Sri Deepthi SriKotaPeetambaram | Data-AI-ML-Playground
