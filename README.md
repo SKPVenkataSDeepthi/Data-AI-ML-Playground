@@ -3,9 +3,9 @@
 </p>
 
 
-✨ *Turning data into decisions. Models into impact. Ideas into reality.*
+*Turning data into decisions. Models into impact. Ideas into reality.*
 
-## 👩‍💻 From Data to Decisions — About Me
+## From Data to Decisions — About Me
 
 <div align="center">
   <img 
@@ -26,9 +26,9 @@
 
 ---
 
-### 🧠 What Happens When You Mix Data + Curiosity + Coffee? ☕
+### What Happens When You Mix Data + Curiosity + Coffee? ☕
 
-I turn messy data into meaningful insights and ideas into real-world impact 🚀  
+I turn messy data into meaningful insights and ideas into real-world impact 
 
 Whether it's decoding patterns, building intelligent models, or engineering scalable pipelines, I enjoy working where logic meets creativity:
 
@@ -38,7 +38,7 @@ Whether it's decoding patterns, building intelligent models, or engineering scal
 
 </div>
 
-### 💡 What Drives Me?
+### What Drives Me?
 
 🔍 Curiosity to solve real-world problems  
 📈 Passion for extracting meaningful insights from data  
@@ -48,11 +48,11 @@ Whether it's decoding patterns, building intelligent models, or engineering scal
 ### 🪄 Fun Fact
 
 I don’t just analyze data, I turn it into stories, uncover hidden plot twists,  
-and occasionally make it confess insights it didn’t plan to share 😄📊✨  
+and occasionally make it confess insights it didn’t plan to share  
 
 ---
 
-## 🌟 What This Repo Is
+## What This Repo Is
 
 A curated collection of **real-world Data Science, AI, and ML challenges** where I:
 - Solve impactful problems using data  
@@ -60,13 +60,13 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 - Work with real datasets & pipelines  
 - Turn insights into actionable solutions  
 
-💡 *From disaster risk prediction to intelligent systems, this is where learning meets real-world impact.*
+*From disaster risk prediction to intelligent systems, this is where learning meets real-world impact.*
 
 ---
 
-# 🧠 Core Skills (Industry-Focused)
+# Core Skills (Industry-Focused)
 
-### 📊 Data Analytics
+### Data Analytics
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Wrangling
 - Data Visualization & Storytelling
@@ -77,7 +77,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### 🤖 Data Science & Machine Learning
+### Data Science & Machine Learning
 - Supervised & Unsupervised Learning
 - Deep Learning (CNNs, Neural Networks)
 - Computer Vision & Image Processing
@@ -89,7 +89,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### ⚙️ Data Engineering
+### Data Engineering
 - ETL / ELT Pipelines
 - Data Modeling (Star/Snowflake Schema)
 - Data Warehousing
@@ -100,7 +100,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 ### 💻 Programming & Query Languages
 <p align="left">
@@ -111,7 +111,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### 📊 Analytics & Visualization Tools
+### Analytics & Visualization Tools
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="42"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="42"/>
@@ -120,7 +120,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### 📚 Data Processing & Analysis
+### Data Processing & Analysis
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42"/>
@@ -128,7 +128,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42"/>
@@ -138,7 +138,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### ⚙️ Data Engineering & Big Data
+### Data Engineering & Big Data
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="42"/>
@@ -148,7 +148,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### 🗄️ Databases & Warehousing
+### Databases & Warehousing
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
@@ -162,7 +162,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### ☁️ Cloud Platforms
+### Cloud Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
@@ -171,7 +171,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-### 🧰 Development & Workflow
+### Development & Workflow
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
@@ -184,9 +184,9 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-## 📂 Projects
+## Projects
 
-📌 Each folder represents a **real-world challenge**, including:
+Each folder represents a **real-world challenge**, including:
 - Problem Statement  
 - Data Processing  
 - Model Building  
@@ -194,7 +194,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Scalable **AI/ML systems**
 - End-to-end **data pipelines**
@@ -207,7 +207,7 @@ A curated collection of **real-world Data Science, AI, and ML challenges** where
 
 🔗 https://www.linkedin.com/in/dvskp/
 
-🚀 *Got something cool in mind? Let’s build it, break it, and innovate something even better together.*
+*Got something cool in mind? Let’s build it, break it, and innovate something even better together.*
 
 ---
 
