@@ -14,7 +14,7 @@
 
 I wanted a project that went beyond benchmark datasets and focused on solving a real-world problem.
 
-The Wildlife Conservation Challenge by DrivenData brings together computer vision and environmental impact by using camera trap images collected in the wild. My goal isn't only to build an accurate classifier—it's to understand the complete machine learning workflow behind production-ready image classification systems.
+The Wildlife Conservation Challenge by DrivenData brings together computer vision and environmental impact by using camera trap images collected in the wild. My goal isn't only to build an accurate classifier, it's to understand the complete machine learning workflow behind production-ready image classification systems.
 
 This repository documents my learning process, experiments, successes, and failures while working through the competition.
 
@@ -221,4 +221,8 @@ Every repository on my GitHub represents more than code—it's a milestone in be
 
 Thanks for exploring this project. If something here sparks an idea, teaches you something new, or inspires a conversation, then this repository has already achieved more than a competition submission ever could.
 
-Until the next challenge... Happy Building! 🌿🤖
+Until the next challenge... Happy Building!
+
+---
+
+                                        © 2026 Venkata Sri Deepthi SriKotaPeetambaram | Data-AI-ML-Playground
